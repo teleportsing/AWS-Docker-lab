@@ -36,28 +36,19 @@ Using Docker lets you ship code faster, standardize application operations, seam
 
 You can use Docker containers as a core building block creating modern applications and platforms. Docker makes it easy to build and run distributed microservices architecures, deploy your code with standardized continuous integration and delivery pipelines, build highly-scalable data processing systems, and create fully-managed platforms for your developers. The recent collaboration between AWS and Docker makes it easier for you to deploy Docker Compose artifacts to Amazon ECS and AWS Fargate. 
 
-	MICROSERVICES
+ MICROSERVICES
 	
-	* Build and scale distributed application architectures by taking advantage of standardized code deployments using Docker containers.
+  * Build and scale distributed application architectures by taking advantage of standardized code deployments using Docker containers.
 
-
-	CONTINUOUS INTEGRATION & DELIVERY
+ CONTINUOUS INTEGRATION & DELIVERY
 	
-	* Accelerate application delivery by standardizing environments and removing conflicts between language stacks and versions.
+  * Accelerate application delivery by standardizing environments and removing conflicts between language stacks and versions.
 
-
-	DATA PROCESSING
+ DATA PROCESSING
 	
-	* Provide big data processing as a service. Package data and analytics packages into portable containers that can be executed by non-technical users.
+  * Provide big data processing as a service. Package data and analytics packages into portable containers that can be executed by non-technical users.
 
-	CONTAINERS AS A SERVICE
+ CONTAINERS AS A SERVICE
 
-	* Build and ship distributed applications with content and infrastructure that is IT-managed and secured.
-
-
-
-
-
-
-
+  * Build and ship distributed applications with content and infrastructure that is IT-managed and secured.
 
