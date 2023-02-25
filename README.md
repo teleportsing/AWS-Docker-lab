@@ -15,9 +15,9 @@ AWS services such as AWS Fargate, Amazon ECS, Amazon EKS, and AWS Batch make it 
 
 Using Docker lets you ship code faster, standardize application operations, seamlessly move code, and save money by improving resource utilization. With Docker, you get a single object that can reliably run anywhere. Docker's simple and straightforward syntax gives you full control. Wide adoption means there's a robust ecosystem of tools and off-the-shelf applications that are ready to use with Docker.
 
-	SHIP MORE SOFTWARE FASTER
+SHIP MORE SOFTWARE FASTER
 
-	* Docker users on average ship software 7x more frequently than non-Docker users. Docker enables you to ship isolated services as often as needed.
+ * Docker users on average ship software 7x more frequently than non-Docker users. Docker enables you to ship isolated services as often as needed.
 
 	STANDARDIZE OPERATIONS
 
