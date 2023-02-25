@@ -25,7 +25,7 @@ Using Docker lets you ship code faster, standardize application operations, seam
 
 	SEAMLESSLY MOVE
 
-	*Docker-based applications can be seamlessly moved from local development machines to production deployments on AWS.
+	* Docker-based applications can be seamlessly moved from local development machines to production deployments on AWS.
 
 	SAVE MONEY
 	* Docker containers make it easier to run more code on each server, improving your utilization and saving you money.
@@ -41,7 +41,7 @@ You can use Docker containers as a core building block creating modern applicati
 
 	CONTINUOUS INTEGRATION & DELIVERY
 	
-	*Accelerate application delivery by standardizing environments and removing conflicts between language stacks and versions.
+	* Accelerate application delivery by standardizing environments and removing conflicts between language stacks and versions.
 
 
 	DATA PROCESSING
