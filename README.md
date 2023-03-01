@@ -1,4 +1,4 @@
-# Amazon Elastic Container Registry(Amazon ECR)
+# Amazon ECR: Elastic Container Registry(Amazon ECR)
 
  By the end of this lab you will be able to
 
