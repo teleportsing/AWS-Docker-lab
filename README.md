@@ -51,6 +51,38 @@ Amazon ECS contains the following components
 
  Service : An Amazon ECS service allows you to run and maintain a specifiednumber of instances of a task definition simultaneous
 
+ # Scheduling Amazon ECS tasks
+
+ Amazon Elastic Container Service ( Amazon ECS ) is a shared state ,optimistic concurrency system that provides flexible scheduling capabilitiesfor your tasks and containers . The Amazon ECS schedulers leverage clusterstate information provided by the Amazon ECS API to make an appropriateplacement decision
+
+ Amazon ECS provides the service scheduler for long running statelessservices and applications . The service scheduler ensures that the specifiednumber of tasks are constantly running and reschedules tasks when a taskfails ( for example , if the underlying container instance fails for somereason ) . The service scheduler optionally also makes sure that tasks areregistered against an Elastic Load Balancing load balancer
+
+ You can update your services that are maintained by the services schedulesuch as deploying a new task definition , or changing the running number ofdesired tasks
+
+
+ # Service definition parameters
+
+ A service definition defines which task definition to use with your service ,how many instantiations of that task to run , and which load balancers ( ifany ) to associate with your tasks
+
+ Service load balancing
+
+ Your Amazon ECS service can optionally be configured to use Elastic LoadBalancing to manage traffic
+
+# Task 1 : Create an Amazon ECR Repositoryn this task , you will create an Elastic Container Registry Repository .
+
+In this task , you will create an Elastic Container Registry Repository .
+
+
+ 3. At the top of the AWS Management Console , to the right of Services , in the search bar search for ECS and then choose Elastic Container Service from the list
+
+ 4. In the left navigation pane , choose Repositories
+
+ 5. Choose Create repository
+
+ 6. For Repository name , type: myrepo
+
+ 7. Choose Create repository
+
 
 
 
