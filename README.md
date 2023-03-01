@@ -1,6 +1,4 @@
-# Overview
-
-This lab introduces you to the Amazon Elastic Container Registry(AmazonECR)
+# Amazon Elastic Container Registry(Amazon ECR)
 
  By the end of this lab you will be able to
 
