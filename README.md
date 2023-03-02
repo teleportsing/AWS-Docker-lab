@@ -68,7 +68,7 @@ Amazon ECS contains the following components
 
  Your Amazon ECS service can optionally be configured to use Elastic LoadBalancing to manage traffic
 
-# Task 1 : Create an Amazon ECR Repositoryn this task , you will create an Elastic Container Registry Repository .
+# Task 1 : Create an Amazon ECR Repositoryn this task , you will create an Elastic Container Registry Repository
 
 In this task , you will create an Elastic Container Registry Repository .
 
